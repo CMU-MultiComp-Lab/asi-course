@@ -16,10 +16,14 @@
     Week 2: <strong>Social intelligence</strong>
   topics:
     - How would you define social intelligence? What aspects of the proposed definitions most resonated with you? Will these definitions of social intelligence generalize to artificial social intelligence?
+    - Should we always try to separate social intelligence from other types of intelligence, more specifically abstract intelligence (often referred to as g-factor or general intelligence)? What are the similarities and differences?
+    - Given the ups and downs of social intelligence research, what method(s) would you support to measure social intelligence (e.g., self-reports, behavioral measures,...)? Will these measures generalize to a setup involving artificial social intelligence?
+    - What are the main components (aka, sub-constructs) of social intelligence? In other words, can we separate the concept of social intelligence into separate factors, separate sub-concepts? What are these components (aka, sub-constructs, sub-concepts)? Can you start drafting a taxonomy of social intelligence sub-concepts?
+    - How are the methods used in psychometric testing (as mentioned on the reading papers) could be applied to our recent methods used in AI, mostly based on deep learning approaches? Are these compatible? How can we handle this uncertainty both in defining and measuring social intelligence?
   readings:
     - Social Intelligence
     - Theory and Measurement of Social Intelligence
-    - Social Intelligence&#58; What It Is and Why We Need It More than Ever Before,
+    - Social Intelligence&#58; What It Is and Why We Need It More than Ever Before
     - A Brief Tutorial on the Development of Measures for Use in Survey Questionnaires
     - New Findings About Social Intelligence&#58; Development and application of the Magdeburg Test of Social Intelligence (MTSI)
     - Factor analytic models of intelligence
@@ -29,7 +33,11 @@
   title: >
     Week 3: <strong>Social skills and competence</strong>
   topics:
-    - fa
+    - How would define the concepts of social skills and social competency? How does social intelligence relate to these concepts (social skills and competency)? What aspects of the proposed definitions most resonated with you? Will these definitions of social intelligence generalize to artificial social intelligence? 
+    - Would it be best to study “artificial social skills and competency”, instead of “artificial social intelligence”? Do you see both concepts working together? What are the main differences? Which one should we prioritize?
+    - Can someone create a list of all social skills? What would this taxonomy look like and how can we validate it? Will the same taxonomy of social skills also apply to artificial social intelligence technologies?
+    - Social skills and competency are often discussed in relationship with human personality traits. Should we think of social skills as long-term traits, or more shorter-term? More contextualized? Are they learned or innate?
+    - Start thinking on how we can build a framework that integrates social intelligence, social skills and social competency? How to evaluate such a framework? How to study this very large problem of artificial social intelligence in a systematic way, over many years?  What would be your proposed research agenda?
   readings:
     - 
   
@@ -37,7 +45,12 @@
   title: >
     Week 4: <strong>Emotional intelligence</strong>
   topics:
-    - fsaf
+    - Are emotions the same as emotional intelligence? How would you define emotions? How would define emotional intelligence? How do you relate these two concepts of emotions and emotional intelligence? Do we want AI systems to have emotions, emotional intelligence or both?
+    - What would be the equivalent of this emotions vs emotional intelligence comparison when talking about social intelligence? Should we compare social intelligence to social interactions? Social behaviors? Or social skills?
+    - Should we use the term emotional intelligence or emotional competence? Should we talk about emotional skills, in a similar way to our discussion about social skills? 
+    - Is it important to differentiate social intelligence from emotional intelligence? Similarly, should we differentiate social skills from emotional skills? Social competence vs emotional competence? Or should we integrate them? Or the union of all these concepts?
+    - Can you identify examples and use cases where clearly a situation is referring to emotional intelligence and not social intelligence? Or vice-versa? 
+    - What are the skills and/or abilities would you expect an AI system to have so that we can call it emotionally intelligent? Is there a core set of skills/abilities that are particularly important? We could call them the “core skills/abilities”. What would be the core set of abilities and skills for social intelligence? Social competence?
   readings:
     - 
 
