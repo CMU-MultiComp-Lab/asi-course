@@ -1,6 +1,6 @@
 - date: 1/20
   title: >
-    Week 1: <strong>Course introduction</strong>  <a href="lecture1-Introduction.pdf">[slides]</a> <a href="11866_week1.pdf">[synopsis]</a>
+    Week 1: <strong>Course introduction</strong>  <a href="lecture1-Introduction.pdf">[slides]</a>
   slides:
   topics:
     - Course syllabus and requirements
@@ -10,7 +10,7 @@
 
 - date: 1/27
   title: >
-    Week 2: <strong>Social intelligence</strong>
+    Week 2: <strong>Social intelligence</strong> <a href="11866_week2.pdf">[synopsis]</a>
   topics:
     - How would you define social intelligence? What aspects of the proposed definitions most resonated with you? Will these definitions of social intelligence generalize to artificial social intelligence?
     - Should we always try to separate social intelligence from other types of intelligence, more specifically abstract intelligence (often referred to as g-factor or general intelligence)? What are the similarities and differences?
