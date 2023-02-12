@@ -63,10 +63,22 @@
 
 - date: 2/17
   title: >
-    Week 5: <strong>Social norms and commonsense</strong>
+    Week 5: <strong>Artificial social agents part 1 - Measurements</strong>
   topics:
-  
+    - With a view towards artificial social agents (robots, virtual humans,...), how should we measure the quality of social intelligence, social competence and social skills? Should we apply the measures from human social intelligence directly to artificial social intelligence? Where are the main differences?
+    - Researchers in robotics, virtual humans and artificial intelligence started building questionnaires and benchmarks to measure social intelligence. How could we potentially improve these proposed questionnaires and benchmarks, possibly using the knowledge gained from studying human social intelligence (including human social competence and human social skills)?
+    - The Tian & Oviatt paper studies socio-emotional competence with a slightly different perspective, looking instead to the errors happening during human-robot interactions? Should we focus more on the errors or on the competence? How are these two concepts related? Does competence mean lack of errors? Should we try to bring competence and errors in the same framework?
+    - Many of the questionnaires for social robots and virtual humans are based on direct interaction with the AI system. After the interaction, the human subject is asked to fill the questionnaire to evaluate and measure social intelligence. This is in contrast with a more “offline” approach, such as Social IQA, where scenarios are written and shared with the AI system directly, to evaluate its social intelligence. Which approach should we prioritize? What are the pros and cons of both paradigms (evaluation after direct interaction vs simulated written scenarios)?
+    - What are the other evaluation paradigms you think would be helpful to measure social intelligence of artificial social agents?
+    - Do you expect social intelligence to be measured differently between an physically-embodied AI (e.g., robot) or a virtually-embodied AI (e.g., virtual human)? What about non-embodied agents or agents with different embodiment (e.g., HAL 9000)? How should we measure social intelligence?
   readings:
+    - <a href="https://dl.acm.org/doi/abs/10.1145/3439720">A Taxonomy of Social Errors in Human-Robot Interaction</a> <br/>
+    - <a href="https://dl.acm.org/doi/abs/10.1145/3415139">Measuring the Perceived Social Intelligence of Robots</a> <br/>
+    - <a href="https://dl.acm.org/doi/abs/10.1145/3514197.3549612">The Artificial-Social-Agent Questionnaire&#58; Establishing the long and short questionnaire versions</a> <br/>
+    - <a href="https://arxiv.org/abs/1904.09728">SOCIAL IQA: Commonsense Reasoning about Social Interactions</a> <br/>
+    - <a href="https://data.4tu.nl/articles/dataset/Artificial_Social_Agent_Questionnaire_Instrument/19650846">Artificial Social Agent Questionnaire Instrument</a> <br/>
+    - <a href="https://dl.acm.org/doi/10.1145/3383652.3423873">The 19 Unifying Questionnaire Constructs of Artificial Social Agents&#58; An IVA Community Analysis</a> <br/>
+    - <a href="https://www.cambridge.org/core/books/cambridge-handbook-of-intelligence/practical-intelligence/758FF9A0B162839C5012A54A4F526187">Practical Intelligence</a> <br/>
 
 - date: 2/24
   title: >
