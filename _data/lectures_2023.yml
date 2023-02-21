@@ -82,10 +82,22 @@
 
 - date: 2/24
   title: >
-    Week 6: <strong>Social interactions and human communication</strong>
+    Week 6: <strong>Social cognition and social interactions</strong>
   topics:
-  
+    - How would you relate the theories from social cognition research with the concepts previously discussed in this course, including social intelligence, social skills and social competence? Can you draft an updated taxonomy (or theoretical framework) which integrates all these concepts? What are the differences between these different views?
+    - “Theory of Mind” is a term that evolved over the decades, and has become popular in recent years for researchers in robotics and AI, when discussing how technologies should interact with humans. From your readings, what is missing from Theory of Mind to have a complete artificial social intelligence?
+    - When reflecting on how to build artificial social agents, it is helpful to think about what are the core abilities and skills needed for AI to successfully participate in social interactions. Based on your readings and insights, what are the core elements of social interactions for artificial social agents? Lightart et al. 2021 suggests an initial list. What core elements are missing? Which elements are definitely key to social interactions?
+    - Some researchers argue that social cognition research should include social interactions (aka interactionism theory). From your perspective, how much of social intelligence can be assessed offline, using tests such as the ones often used for Theory of Mind assessment? How much of social intelligence is also interactional (online) and requires different assessment methods?
+    - Social perception is also an important aspect of social intelligence. The Brunswik’s Lens model is a landmark model for studying human interpersonal communication. Since signals are likely to be interpreted differently, from different people, how can we model all these different perspectives of the same social interaction? 
   readings:
+    - <a href=" "> </a> <br/>
+    - <a href=" "> </a> <br/>
+    - <a href=" "> </a> <br/>
+    - <a href=" "> </a> <br/>
+    - <a href=" "> </a> <br/>
+    - <a href=" "> </a> <br/>
+    - <a href=" "> </a> <br/>
+    - <a href=" "> </a> <br/>
 
 - date: 3/3
   title: >
