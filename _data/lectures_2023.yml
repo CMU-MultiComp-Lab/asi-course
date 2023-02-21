@@ -53,7 +53,7 @@
     - Can you identify examples and use cases where clearly a situation is referring to emotional intelligence and not social intelligence? Or vice-versa? 
     - What are the skills and/or abilities would you expect an AI system to have so that we can call it emotionally intelligent? Is there a core set of skills/abilities that are particularly important? We could call them the “core skills/abilities”. What would be the core set of abilities and skills for social intelligence? Social competence?
   readings:
-    - <a href="https://journals.sagepub.com/doi/pdf/10.1177/0539018405058216?casa_token=gMRd3KujcdoAAAAA:dzrTOn8nGf6lRO7i7OZxO9n1l_XF5bJhr3NzuU5cEj67HytP9wj0OoG7gREDhClgX44FLisdBbdVwA">What are emotions? And how can they be measured?</a> <br/>
+    - <a href="https://journals.sagepub.com/doi/pdf/10.1177/0539018405058216?casa_token=gMRd3KujcdoAAAAA:dzrTOn8nGf6lRO7i7OZxO9n1l_XF5bJhr3NzuU5cEj67HytP9wj0OoG7gREDhClgX44FLisdBbdVwA">What are Emotions? And How Can They be Measured?</a> <br/>
     - <a href="https://compass.onlinelibrary.wiley.com/doi/full/10.1111/j.1751-9004.2010.00277.x?casa_token=8q5dmZ9eyDYAAAAA%3AAqGpDl3uySt87e_G5LKKSlUwbWKXTFKdmBtzRchCyWt3mMz4KEqb-v6dvlmU2z3yRyfq7tvmouPd3U65">Emotional Intelligence&#58; Toward a Consensus of Models and Measures</a> <br/>
     - <a href="https://academic.oup.com/book/6088/chapter-abstract/149543348?redirectedFrom=fulltext">Componential Emotion Theory Can Inform Models of Emotional Competence</a> <br/>
     - <a href="https://journals.sagepub.com/doi/pdf/10.1177/1529100619832930">Emotional Expressions Reconsidered&#58; Challenges to Inferring Emotion From Human Facial Movements</a> <br/>
@@ -74,7 +74,7 @@
   readings:
     - <a href="https://dl.acm.org/doi/abs/10.1145/3439720">A Taxonomy of Social Errors in Human-Robot Interaction</a> <br/>
     - <a href="https://dl.acm.org/doi/abs/10.1145/3415139">Measuring the Perceived Social Intelligence of Robots</a> <br/>
-    - <a href="https://dl.acm.org/doi/abs/10.1145/3514197.3549612">The Artificial-Social-Agent Questionnaire&#58; Establishing the long and short questionnaire versions</a> <br/>
+    - <a href="https://dl.acm.org/doi/abs/10.1145/3514197.3549612">The Artificial-Social-Agent Questionnaire&#58; Establishing the Long and Short Questionnaire Versions</a> <br/>
     - <a href="https://arxiv.org/abs/1904.09728">SOCIAL IQA&#58; Commonsense Reasoning about Social Interactions</a> <br/>
     - <a href="https://data.4tu.nl/articles/dataset/Artificial_Social_Agent_Questionnaire_Instrument/19650846">Artificial Social Agent Questionnaire Instrument</a> <br/>
     - <a href="https://dl.acm.org/doi/10.1145/3383652.3423873">The 19 Unifying Questionnaire Constructs of Artificial Social Agents&#58; An IVA Community Analysis</a> <br/>
@@ -90,14 +90,14 @@
     - Some researchers argue that social cognition research should include social interactions (aka interactionism theory). From your perspective, how much of social intelligence can be assessed offline, using tests such as the ones often used for Theory of Mind assessment? How much of social intelligence is also interactional (online) and requires different assessment methods?
     - Social perception is also an important aspect of social intelligence. The Brunswik’s Lens model is a landmark model for studying human interpersonal communication. Since signals are likely to be interpreted differently, from different people, how can we model all these different perspectives of the same social interaction? 
   readings:
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
+    - <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2014.01007/full">Prospects for Direct Social Perception&#58; a Multi-theoretical Integration to Further the Science of Social Cognition</a> <br/>
+    - <a href="https://arxiv.org/abs/2110.04054">Core Elements of Social Interaction for Constructive Human-Robot Interaction</a> <br/>
+    - <a href="https://pubmed.ncbi.nlm.nih.gov/20674467/">Can Social Interaction Constitute Social Cognition? </a> <br/>
+    - <a href="https://pubmed.ncbi.nlm.nih.gov/18184635/">Social Cognition in Schizophrenia&#58; An NIMH Workshop on Definitions, Assessment, and Research Opportunities</a> <br/>
+    - <a href="https://pubmed.ncbi.nlm.nih.gov/25496670/">Deconstructing and Reconstructing Theory of Mind</a> <br/>
+    - <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8919046/">Supporting Artificial Social Intelligence With Theory of Mind</a> <br/>
+    - <a href="https://www.researchgate.net/publication/238603356_Theory_of_Mind_in_normal_development_and_autism">Theory of Mind in Normal Development and Autism</a> <br/>
+    - <a href="https://www.sciencedirect.com/science/article/abs/pii/S1389041716300493">Enabling Robotic Social Intelligence by Engineering Human Social-cognitive Mechanisms</a> <br/>
 
 - date: 3/3
   title: >
