@@ -44,7 +44,7 @@
   
 - date: 2/10
   title: >
-    Week 4: <strong>Emotional intelligence</strong>
+    Week 4: <strong>Emotional intelligence</strong> <a href="11866_week4.pdf">[synopsis]</a>
   topics:
     - Are emotions the same as emotional intelligence? How would you define emotions? How would define emotional intelligence? How do you relate these two concepts of emotions and emotional intelligence? Do we want AI systems to have emotions, emotional intelligence or both?
     - What would be the equivalent of this emotions vs emotional intelligence comparison when talking about social intelligence? Should we compare social intelligence to social interactions? Social behaviors? Or social skills?
@@ -63,7 +63,7 @@
 
 - date: 2/17
   title: >
-    Week 5: <strong>Artificial social agents part 1 - Measurements</strong>
+    Week 5: <strong>Artificial social agents- Measurements</strong>
   topics:
     - With a view towards artificial social agents (robots, virtual humans,...), how should we measure the quality of social intelligence, social competence and social skills? Should we apply the measures from human social intelligence directly to artificial social intelligence? Where are the main differences?
     - Researchers in robotics, virtual humans and artificial intelligence started building questionnaires and benchmarks to measure social intelligence. How could we improve these proposed questionnaires and benchmarks, possibly using the knowledge gained from studying human social intelligence, competence, and skills?
