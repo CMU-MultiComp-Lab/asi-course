@@ -63,7 +63,7 @@
 
 - date: 2/17
   title: >
-    Week 5: <strong>Artificial social agents - Measurements</strong>
+    Week 5: <strong>Artificial social agents - Measurements</strong> <a href="11866_week5.pdf">[synopsis]</a>
   topics:
     - With a view towards artificial social agents (robots, virtual humans,...), how should we measure the quality of social intelligence, social competence and social skills? Should we apply the measures from human social intelligence directly to artificial social intelligence? Where are the main differences?
     - Researchers in robotics, virtual humans and artificial intelligence started building questionnaires and benchmarks to measure social intelligence. How could we improve these proposed questionnaires and benchmarks, possibly using the knowledge gained from studying human social intelligence, competence, and skills?
@@ -82,7 +82,7 @@
 
 - date: 2/24
   title: >
-    Week 6: <strong>Social cognition and social interactions</strong>
+    Week 6: <strong>Social cognition and social interactions</strong> <a href="11866_week6.pdf">[synopsis]</a>
   topics:
     - How would you relate the theories from social cognition research with the concepts previously discussed in this course, including social intelligence, social skills and social competence? Can you draft an updated taxonomy (or theoretical framework) which integrates all these concepts? What are the differences between these different views?
     - “Theory of Mind” is a term that evolved over the decades, and has become popular in recent years for researchers in robotics and AI, when discussing how technologies should interact with humans. From your readings, what is missing from Theory of Mind to have a complete artificial social intelligence?
