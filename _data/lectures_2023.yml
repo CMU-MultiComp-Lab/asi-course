@@ -136,14 +136,15 @@
     - We start seeing hybrid approaches that integrate both theory-inspired approaches with large-scale models. How would you propose to integrate these two lines of research? Should large-scale models be the foundation of these integrated approaches? Or should large-scale models be seen just as a module of a larger system? Can you think of other integrative/hybrid approaches?
     - Evaluation of these conversational AI systems is still a big issue. Focusing on the social intelligence parts of the problem, how can we properly evaluate conversational AI systems? How should automatic metrics be used as part of the evaluation and creation of conversational AI systems? Similarly, how should we integrate human feedback? 
   readings:
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
-    - <a href=" "> </a> <br/>
+    - <a href="https://pubmed.ncbi.nlm.nih.gov/36591412/">Socio-conversational Systems&#58; Three Challenges at the Crossroads of Fields</a> <br/>
+    - <a href="https://arxiv.org/abs/2302.07926">Commonsense Reasoning for Conversational AI&#58; A Survey of the State of the Art</a> <br/>
+    - <a href="https://dl.acm.org/doi/10.1145/3477322.3477334">Empathy and Prosociality in Social Agents</a> <br/>
+    - <a href="https://arxiv.org/abs/2210.13312">Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs</a> <br/>
+    - <a href="https://arxiv.org/abs/2112.06346">ValueNet&#58; A New Dataset for Human Value Driven Dialogue System</a> <br/>
+    - <a href="https://arxiv.org/abs/1811.00207">Towards Empathetic Open-domain Conversation Models&#58; a New Benchmark and Dataset</a> <br/>
+    - <a href="https://dl.acm.org/doi/book/10.1145/3477322">The Handbook on Socially Interactive Agents&#58; 20 years of Research on Embodied Conversational Agents, Intelligent Virtual Agents, and Social Robotics</a> <br/>
+    - <a href="https://arxiv.org/abs/2201.04723">Human Evaluation of Conversations is an Open Problem&#58; Comparing the Sensitivity of Various Methods for Evaluating Dialogue Agents</a> <br/>
+    - <a href="https://arxiv.org/abs/2203.10012">Report from the NSF Future Directions Workshop on Automatic Evaluation of Dialog&#58; Research Directions and Challenges</a> <br/>
   
 - date: 3/24
   title: >
