@@ -128,7 +128,7 @@
 
 - date: 3/17
   title: >
-    Week 9: <strong>Artificial Social Agents Part 2 - Conversational AI</strong>
+    Week 9: <strong>Artificial Social Agents Part 2: Conversational AI</strong>
   topics:
     - As a first step in reviewing research related to artificial social agents, we start with language-based interactions (aka non-embodied interactions, conversational agents). From our previous weeks discussing skills and abilities related to social intelligence and competence, what subset of these skills and abilities are primarily driven by language-based conversations? Is language central to all of them?
     - A big enabler of recent progress in this area of (language-based) conversational AI is related to large-scale language models (e.g., GPT, OPT, T5, TNLG) and their extensions to conversation modeling (e.g., DialogGPT, Blenderbot). What aspects of social intelligence are particularly well suited to be learned by these large-scale models? What social intelligence skills and abilities may not be well modeled by these large-scale models?
