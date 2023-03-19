@@ -1,6 +1,6 @@
 - date: 1/20
   title: >
-    Week 1: <strong>Course introduction</strong>  <a href="lecture1-Introduction.pdf">[slides]</a>
+    Week 1: <strong>Course Introduction</strong>  <a href="lecture1-Introduction.pdf">[slides]</a>
   slides:
   topics:
     - Course syllabus and requirements
@@ -10,7 +10,7 @@
 
 - date: 1/27
   title: >
-    Week 2: <strong>Social intelligence</strong> <a href="11866_week2.pdf">[synopsis]</a>
+    Week 2: <strong>Social Intelligence</strong> <a href="11866_week2.pdf">[synopsis]</a>
   topics:
     - How would you define social intelligence? What aspects of the proposed definitions most resonated with you? Will these definitions of social intelligence generalize to artificial social intelligence?
     - Should we always try to separate social intelligence from other types of intelligence, more specifically abstract intelligence (often referred to as g-factor or general intelligence)? What are the similarities and differences?
@@ -28,7 +28,7 @@
     
 - date: 2/3
   title: >
-    Week 3: <strong>Social skills and competence</strong> <a href="11866_week3.pdf">[synopsis]</a>
+    Week 3: <strong>Social Skills and Competence</strong> <a href="11866_week3.pdf">[synopsis]</a>
   topics:
     - How would define the concepts of social skills and social competency? How does social intelligence relate to these concepts (social skills and competency)? What aspects of the proposed definitions most resonated with you? Will these definitions of social intelligence generalize to artificial social intelligence? 
     - Would it be best to study “artificial social skills and competency”, instead of “artificial social intelligence”? Do you see both concepts working together? What are the main differences? Which one should we prioritize?
@@ -44,7 +44,7 @@
   
 - date: 2/10
   title: >
-    Week 4: <strong>Emotional intelligence</strong> <a href="11866_week4.pdf">[synopsis]</a>
+    Week 4: <strong>Emotional Intelligence</strong> <a href="11866_week4.pdf">[synopsis]</a>
   topics:
     - Are emotions the same as emotional intelligence? How would you define emotions? How would define emotional intelligence? How do you relate these two concepts of emotions and emotional intelligence? Do we want AI systems to have emotions, emotional intelligence or both?
     - What would be the equivalent of this emotions vs emotional intelligence comparison when talking about social intelligence? Should we compare social intelligence to social interactions? Social behaviors? Or social skills?
@@ -63,7 +63,7 @@
 
 - date: 2/17
   title: >
-    Week 5: <strong>Artificial social agents - Measurements</strong> <a href="11866_week5.pdf">[synopsis]</a>
+    Week 5: <strong>Artificial Social Agents Part 1: Measurements</strong> <a href="11866_week5.pdf">[synopsis]</a>
   topics:
     - With a view towards artificial social agents (robots, virtual humans,...), how should we measure the quality of social intelligence, social competence and social skills? Should we apply the measures from human social intelligence directly to artificial social intelligence? Where are the main differences?
     - Researchers in robotics, virtual humans and artificial intelligence started building questionnaires and benchmarks to measure social intelligence. How could we improve these proposed questionnaires and benchmarks, possibly using the knowledge gained from studying human social intelligence, competence, and skills?
@@ -82,7 +82,7 @@
 
 - date: 2/24
   title: >
-    Week 6: <strong>Social cognition and social interactions</strong> <a href="11866_week6.pdf">[synopsis]</a>
+    Week 6: <strong>Social Cognition and Social Interactions</strong> <a href="11866_week6.pdf">[synopsis]</a>
   topics:
     - How would you relate the theories from social cognition research with the concepts previously discussed in this course, including social intelligence, social skills and social competence? Can you draft an updated taxonomy (or theoretical framework) which integrates all these concepts? What are the differences between these different views?
     - “Theory of Mind” is a term that evolved over the decades, and has become popular in recent years for researchers in robotics and AI, when discussing how technologies should interact with humans. From your readings, what is missing from Theory of Mind to have a complete artificial social intelligence?
@@ -101,7 +101,7 @@
 
 - date: 3/3
   title: >
-    Week 7: <strong>Interpersonal communication</strong>
+    Week 7: <strong>Interpersonal Communication</strong>
   topics:
     - A significant portion of many social interactions involves communication of verbal and nonverbal messages. This interpersonal communication between dyads and small groups is a relevant facet of social interactions. From your readings, what are the main functions of interpersonal communication? How do you compare the functions of verbal communication vs functions of nonverbal communication?
     - How are these functions of interpersonal communication aligned with abilities and skills discussed in the previous week when studying social and emotional intelligence? Are these functions overlapping? Some of them unique to interpersonal communication? Some of them unique to social intelligence?
@@ -128,10 +128,22 @@
 
 - date: 3/17
   title: >
-    Week 9: <strong>Artificial social intelligence and embodiment</strong>
+    Week 9: <strong>Artificial Social Agents Part 2 - Conversational AI</strong>
   topics:
-  
+    - As a first step in reviewing research related to artificial social agents, we start with language-based interactions (aka non-embodied interactions, conversational agents). From our previous weeks discussing skills and abilities related to social intelligence and competence, what subset of these skills and abilities are primarily driven by language-based conversations? Is language central to all of them?
+    - A big enabler of recent progress in this area of (language-based) conversational AI is related to large-scale language models (e.g., GPT, OPT, T5, TNLG) and their extensions to conversation modeling (e.g., DialogGPT, Blenderbot). What aspects of social intelligence are particularly well suited to be learned by these large-scale models? What social intelligence skills and abilities may not be well modeled by these large-scale models?
+    - In parallel to this recent progress in large-scale models, researchers are still continuing to study more theoretically-inspired research in conversational modeling. What aspects of social intelligence are particularly well suited for these approaches, not based primarily on large-scale models? What social intelligence skills and abilities may not be well modeled by these approaches?
+    - We start seeing hybrid approaches that integrate both theory-inspired approaches with large-scale models. How would you propose to integrate these two lines of research? Should large-scale models be the foundation of these integrated approaches? Or should large-scale models be seen just as a module of a larger system? Can you think of other integrative/hybrid approaches?
+    - Evaluation of these conversational AI systems is still a big issue. Focusing on the social intelligence parts of the problem, how can we properly evaluate conversational AI systems? How should automatic metrics be used as part of the evaluation and creation of conversational AI systems? Similarly, how should we integrate human feedback? 
   readings:
+    - <a href=" "> </a> <br/>
+    - <a href=" "> </a> <br/>
+    - <a href=" "> </a> <br/>
+    - <a href=" "> </a> <br/>
+    - <a href=" "> </a> <br/>
+    - <a href=" "> </a> <br/>
+    - <a href=" "> </a> <br/>
+    - <a href=" "> </a> <br/>
   
 - date: 3/24
   title: >
