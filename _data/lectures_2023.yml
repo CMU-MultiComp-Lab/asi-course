@@ -150,9 +150,22 @@
   title: >
     Week 10: <strong>Modeling social perception</strong>
   topics:
-  
+    - Last week, we studied recent technologies to model written-text conversations. This week, we study spoken and embodied interactions, which also include nonverbal communication. What are the new technical challenges that emerge when building spoken and embodied conversational AI?
+    - Large language models have shown impressive performances for text-based conversational AI. Why did we not see the same improvements for embodied conversational AI? Is it just a question of more data? Better annotations? Or should nonverbal and multimodal interactions be modeled differently?
+    - Take a moment to review the papers from week 5 which listed methods to evaluate social agents, including proposed taxonomies for social skills and social intelligence. Do current models and systems properly address the abilities and skills of social intelligence? How should we build new technologies for better embodied social agents?
+    - As we start thinking beyond dyadic interactions and dialogues, what are the elements of social intelligence that are particularly important in small group settings? What are the new technical challenges to build social agents in these group settings? Can you think of concepts and technologies originally built for dyadic interactions which will not generalize to the group settings?
+    - One extensively-discussed problem is about the type of embodiment. For example, should the social agent have physical embodiment (e.g., robots) or virtual (e.g., virtual humans). Think about the impact of embodiment on the problem of building social agents, more specifically its social skills and social intelligence. What are the differences? Which ones will generalize between embodiments?
+    - As a small extra exercise, imagine a world without transformers or large-scale language models (i.e., Vaswami et al. paper was never published). How would you start addressing this problem of building embodied social agents if these tools (transformer, LLMs) were not available? In other words, take a fresh look at the problem of artificial social intelligence, without grounding it too much on current models and systems. How would you solve the problem? Where to start? 
   readings:
-  
+    - <a href="https://link.springer.com/chapter/10.1007/978-3-319-32552-1_72">Social Robotics</a> <br/>
+    - <a href="https://dl.acm.org/doi/abs/10.1145/3563659.3563664">The Fabric of Socially Interactive Agents&#58; Multimodal Interaction Architectures</a> <br/>
+    - <a href="https://arxiv.org/abs/2301.05339">A Comprehensive Review of Data-Driven Co-Speech Gesture Generation</a> <br/>
+    - <a href="https://arxiv.org/abs/2204.08451">Learning to Listen&#58; Modeling Non-Deterministic Dyadic Facial Motion</a> <br/>
+    - <a href="https://dl.acm.org/doi/abs/10.1145/3563659.3563662">Interaction in Social Space</a> <br/>
+    - <a href="https://arxiv.org/abs/2106.13948">Core Challenges in Embodied Vision-Language Planning</a> <br/>
+    - <a href="https://arxiv.org/abs/2103.04918">A Survey of Embodied AI&#58; From Simulators to Research Tasks</a> <br/>
+    - <a href="https://link.springer.com/content/pdf/10.1007/978-1-4615-3184-5_8.pdf">Real Robots, Real Learning Problems</a> <br/>
+    
 - date: 3/31
   title: >
     Week 11: <strong>Modeling social understanding and reasoning</strong>
