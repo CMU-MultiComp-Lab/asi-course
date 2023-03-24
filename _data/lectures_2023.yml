@@ -148,7 +148,7 @@
   
 - date: 3/24
   title: >
-    Week 10: <strong> Artificial Social Agents Part 3: Embodiment and Nonverbal Generation</strong>
+    Week 10: <strong> Artificial Social Agents Part 3: Embodiment and Nonverbal</strong>
   topics:
     - Last week, we studied recent technologies to model written-text conversations. This week, we study spoken and embodied interactions, which also include nonverbal communication. What are the new technical challenges that emerge when building spoken and embodied conversational AI?
     - Large language models have shown impressive performances for text-based conversational AI. Why did we not see the same improvements for embodied conversational AI? Is it just a question of more data? Better annotations? Or should nonverbal and multimodal interactions be modeled differently?
