@@ -168,10 +168,25 @@
     
 - date: 3/31
   title: >
-    Week 11: <strong>Modeling social understanding and reasoning</strong>
+    Week 11: <strong>Multimodal social understanding</strong>
   topics:
-  
+    - This week, we will discuss AI technologies for social understanding. A popular trend is to learn large-scale pre-trained models, such as the MERLOT Reserve model. What social skills and abilities are likely to be well suited to be modeled and understood by large-pretrained models? Which ones will require a different approach? 
+    - A different approach is to explicitly represent and model intermediate stages of the social understanding process, including the detection of the unimodal and multimodal behaviors related to social interactions. One example is to explicitly learn and model graphically the behaviors, interactions and relationships between people using graphs or similar representations. When should we use such an approach to better understand social interactions? What are the pros and cons of this approach? 
+    - Many large-scale pre-trained models are learned through masking. In what situations do you expect masking to succeed, and as importantly, when will it fail? If not using masking, how should we learn models for social understanding? How to integrate theories and knowledge of social intelligence in these large-scale pretrained models? Do we need motion to understand social interactions, or can it be done from images?
+    - To succeed in social understanding, do we need agents to experience and interact themselves? Can it be learned from observations only? Can it be learned just from text (e.g., Social IQA dataset)? When is nonverbal and multimodal information helpful? What else would be needed to learn efficiently? What are the differences between social understanding when second-person view (e.g., social agent) vs third-person view (outside observer)?
+    - Is question-answering the right way to evaluate multimodal social understanding? Are current benchmarks properly evaluating social understanding, or only a subset such as social perception? What would be an alternative to this benchmarking paradigm? What would it take for you to be convinced that an AI system is socially intelligent and can understand social interactions?
+    - What is the most impactful project in social understanding you can imagine doing if you had 6 months to do it, given the current state-of-the-art? How would you approach it and what data would you need? What if you had 3 years and no limit on budget, what problem in social understanding would have the biggest impact?
   readings:
+    - <a href="https://arxiv.org/abs/1712.06761">MovieGraphs&#58; Towards Understanding Human-Centric Situations from Videos</a> <br/>
+    - <a href="https://arxiv.org/abs/2201.02639">MERLOT Reserve&#58; Neural Script Knowledge through Vision and Language and Sound</a> <br/>
+    - <a href="https://ieeexplore.ieee.org/document/9359528">Review and Challenges of Technologies for Real-Time Human Behavior Monitoring</a> <br/>
+    - <a href="https://arxiv.org/abs/2206.01720">Revisiting the Video in Video-Language Understanding</a> <br/>
+    - <a href="https://www.sciencedirect.com/science/article/pii/S0262885608002485">Social Signal Processing&#58; Survey of an Emerging Domain</a> <br/>
+    - <a href="https://arxiv.org/abs/1809.01696">TVQA&#58; Localized, Compositional Video Question Answering</a> <br/>
+    - <a href="https://arxiv.org/abs/2204.00598">Socratic Models&#58; Composing Zero-Shot Multimodal Reasoning with Language</a> <br/>
+    - <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf">Social-IQ&#58; A Question Answering Benchmark for Artificial Social Intelligence</a> <br/>
+    - <a href="https://arxiv.org/abs/1811.10830">From Recognition to Cognition&#58; Visual Commonsense Reasoning</a> <br/>
+    - <a href="https://arxiv.org/abs/2103.15975">Platform for Situated Intelligence</a> <br/>
 
 - date: 4/7
   title: >
