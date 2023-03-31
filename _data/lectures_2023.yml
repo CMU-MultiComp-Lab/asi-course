@@ -1,6 +1,6 @@
 - date: 1/20
   title: >
-    Week 1: <strong>Course Introduction</strong>  <a href="lecture1-Introduction.pdf">[slides]</a>
+    Week 1: <strong>Course Introduction</strong> <a href="lecture1-Introduction.pdf">[slides]</a>
   slides:
   topics:
     - Course syllabus and requirements
@@ -101,7 +101,7 @@
 
 - date: 3/3
   title: >
-    Week 7: <strong>Interpersonal Communication</strong>
+    Week 7: <strong>Interpersonal Communication</strong> <a href="11866_week7.pdf">[synopsis]</a>
   topics:
     - A significant portion of many social interactions involves communication of verbal and nonverbal messages. This interpersonal communication between dyads and small groups is a relevant facet of social interactions. From your readings, what are the main functions of interpersonal communication? How do you compare the functions of verbal communication vs functions of nonverbal communication?
     - How are these functions of interpersonal communication aligned with abilities and skills discussed in the previous week when studying social and emotional intelligence? Are these functions overlapping? Some of them unique to interpersonal communication? Some of them unique to social intelligence?
@@ -128,7 +128,7 @@
 
 - date: 3/17
   title: >
-    Week 9: <strong>Artificial Social Agents Part 2: Conversational AI</strong>
+    Week 9: <strong>Artificial Social Agents Part 2: Conversational AI</strong> <a href="11866_week9.pdf">[synopsis]</a>
   topics:
     - As a first step in reviewing research related to artificial social agents, we start with language-based interactions (aka non-embodied interactions, conversational agents). From our previous weeks discussing skills and abilities related to social intelligence and competence, what subset of these skills and abilities are primarily driven by language-based conversations? Is language central to all of them?
     - A big enabler of recent progress in this area of (language-based) conversational AI is related to large-scale language models (e.g., GPT, OPT, T5, TNLG) and their extensions to conversation modeling (e.g., DialogGPT, Blenderbot). What aspects of social intelligence are particularly well suited to be learned by these large-scale models? What social intelligence skills and abilities may not be well modeled by these large-scale models?
@@ -148,7 +148,7 @@
   
 - date: 3/24
   title: >
-    Week 10: <strong> Artificial Social Agents Part 3: Embodiment and Nonverbal</strong>
+    Week 10: <strong> Artificial Social Agents Part 3: Embodiment and Nonverbal</strong> <a href="11866_week10.pdf">[synopsis]</a>
   topics:
     - Last week, we studied recent technologies to model written-text conversations. This week, we study spoken and embodied interactions, which also include nonverbal communication. What are the new technical challenges that emerge when building spoken and embodied conversational AI?
     - Large language models have shown impressive performances for text-based conversational AI. Why did we not see the same improvements for embodied conversational AI? Is it just a question of more data? Better annotations? Or should nonverbal and multimodal interactions be modeled differently?
@@ -170,7 +170,7 @@
   title: >
     Week 11: <strong>Multimodal social understanding</strong>
   topics:
-    - This week, we will discuss AI technologies for social understanding. A popular trend is to learn large-scale pre-trained models, such as the MERLOT Reserve model. What social skills and abilities are likely to be well suited to be modeled and understood by large-pretrained models? Which ones will require a different approach? 
+    - A popular trend is to learn large-scale pre-trained models, such as the MERLOT Reserve model. What social skills and abilities are likely to be well suited to be modeled and understood by large-pretrained models? Which ones will require a different approach? 
     - A different approach is to explicitly represent and model intermediate stages of the social understanding process, including the detection of the unimodal and multimodal behaviors related to social interactions. One example is to explicitly learn and model graphically the behaviors, interactions and relationships between people using graphs or similar representations. When should we use such an approach to better understand social interactions? What are the pros and cons of this approach? 
     - Many large-scale pre-trained models are learned through masking. In what situations do you expect masking to succeed, and as importantly, when will it fail? If not using masking, how should we learn models for social understanding? How to integrate theories and knowledge of social intelligence in these large-scale pretrained models? Do we need motion to understand social interactions, or can it be done from images?
     - To succeed in social understanding, do we need agents to experience and interact themselves? Can it be learned from observations only? Can it be learned just from text (e.g., Social IQA dataset)? When is nonverbal and multimodal information helpful? What else would be needed to learn efficiently? What are the differences between social understanding when second-person view (e.g., social agent) vs third-person view (outside observer)?
