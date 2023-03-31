@@ -168,7 +168,7 @@
     
 - date: 3/31
   title: >
-    Week 11: <strong>Multimodal social understanding</strong>
+    Week 11: <strong>Multimodal Social Understanding</strong>
   topics:
     - A popular trend is to learn large-scale pre-trained models, such as the MERLOT Reserve model. What social skills and abilities are likely to be well suited to be modeled and understood by large-pretrained models? Which ones will require a different approach? 
     - A different approach is to explicitly represent and model intermediate stages of the social understanding process, including the detection of the unimodal and multimodal behaviors related to social interactions. One example is to explicitly learn and model graphically the behaviors, interactions and relationships between people using graphs or similar representations. When should we use such an approach to better understand social interactions? What are the pros and cons of this approach? 
@@ -190,7 +190,7 @@
 
 - date: 4/7
   title: >
-    Week 12: <strong>Ethics and long-term</strong>
+    Week 12: <strong>Ethics and Long-term</strong>
   topics:
   
   readings:
@@ -205,14 +205,14 @@
   
 - date: 4/21
   title: >
-    Week 14: <strong>Creativity and generating social behaviors</strong>
+    Week 14: <strong>Creativity and Generation</strong>
   topics:
   
   readings:
   
 - date: 4/28
   title: >
-    Week 15: <strong>Project presentations</strong>
+    Week 15: <strong>Project Presentations</strong>
   topics:
   
   readings:
