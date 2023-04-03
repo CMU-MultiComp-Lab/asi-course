@@ -190,10 +190,25 @@
 
 - date: 4/7
   title: >
-    Week 12: <strong>Ethics and Long-term</strong>
+    Week 12: <strong>Relationships, Trust, and Ethics</strong>
   topics:
-  
+    - During the past weeks, we studied technologies to enable artificial social agents. To help us understand the potential issues related to trust and ethics, it is good to first reflect on what applications are best suited for these technologies. What are the domains where you see artificial social agents having the most impact, in the short term and in the long term? In general, in which applications modeling is it particularly important to model social intelligence? 
+    - As socially-intelligent technologies are being deployed in houses and also in companies, people will start iterating with them multiple times, potentially over a long period of time, and maybe even creating relationships. What would be all the dimensions to consider when thinking of human-agent relationships? Should we replicate human-human interactions and relationships? How to define this relationship? A taxonomy of human-agent relationships?
+    - How can we build social agents that are able to build long-term relationships? What are the main technologies missing to be able to build such relationships?
+    - Another important facet is trust between humans and technology. What are all the facets of trust that are particularly important for social interactions with artificial social agents? Do they differ for human-human trust? Or differ from other AI technologies?
+    - How can we build trust between artificial social agents and people? What design principles should we follow to ensure trustworthy technologies? How to be careful not to deceive users and properly manage expectations?
+    - What are the potential ethical issues related to artificial social agents? From all the ethical issues related to AI technologies in general, which ones are particularly important in artificial social intelligence?
+    - What are the design principles and research strategies that we should consider when building artificial social intelligence? As academic researchers, how can we help design and implement these principles and strategies? In our own research, how to integrate these principles?
   readings:
+    - <a href=" ">Are Friends Electric? The Benefits and Risks of Human-robot Relationships</a> <br/>
+    - <a href=" ">Ethics of Artificial Intelligence and Robotics</a> <br/>
+    - <a href=" ">Formalizing Trust in Artificial Intelligence&#58; Prerequisites, Causes and Goals of Human Trust in AI</a> <br/>
+    - <a href=" ">A Systematic Review of Attitudes, Anxiety, Acceptance, and Trust Towards Social Robots</a> <br/>
+    - <a href=" ">Establishing and Maintaining Long-term Human-Computer Relationships</a> <br/>
+    - <a href=" ">An Introduction to Ethics in Robotics and AI</a> <br/>
+    - <a href=" ">Granny and the Robots&#58; Ethical Issues in Robot Care for the Elderly</a> <br/>
+    - <a href=" ">How to Evaluate Trust in AI-Assisted Decision Making? A Survey of Empirical Methodologies</a> <br/>
+    - <a href=" ">Understanding the Impact of Anthropomorphism on Consumer Response to Chatbots from the Perspective of Trust and Relationship Norms</a> <br/>
 
 - date: 4/14
   title: >
